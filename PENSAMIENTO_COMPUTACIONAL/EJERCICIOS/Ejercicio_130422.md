@@ -50,3 +50,17 @@
 	-Escribir "el resultado de es ", answ 
 
 -FinAlgoritmo
+
+## Metros a yardas
+
+-Algoritmo ejemplo_no_mult9
+	
+	-Escribir "ingresa el número que quieras"
+	
+	-Leer num_selec
+	
+	-answ<-num_selec * 9
+	
+	-Escribir "el resultado de es ", answ 
+
+-FinAlgoritmo
