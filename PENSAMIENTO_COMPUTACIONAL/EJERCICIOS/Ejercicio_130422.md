@@ -67,7 +67,7 @@
 
 ## área de un triángulo
 
--Algoritmo ejemplo_no_mult9
+-Algoritmo_área_triángulo
 
 	-Escribir "ingresa el número que quieras"
 	
