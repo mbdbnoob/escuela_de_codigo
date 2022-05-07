@@ -3,26 +3,18 @@ Realiza un algoritmo y diagrama de flujo de un programa que compare dos números
 ALGORITMO
 
 1. inicio
-2. declarar(num1,num)int
-3. asignar(num1,num2)
-4. SI(num1 > num) ENTONCES muestra(num1,"es mayor que", num2)
-    SINO muestra(num2, ("es mayor a", num1)
-    FINSI
-5. fin
+2. declarar(num1,num2,res)int
+3. mostrar ("Ingresa el primer número")
+4. asignar(num1)
+5. mostrar ("ingresa el segundo número)
+6. asignar (num2)
+7. res= num1+num2
+8. mostrar ("la suma de num1" mas "num2"
+9. fin
 
 DIAGRAMA DE FLUJO
 
-![image](https://user-images.githubusercontent.com/91554777/158940678-bea5ac98-3ed0-410d-a008-0e3c52e2b47d.png)
-
-Si quieres probar en JS https://jseditor.io/
-
-    var num1;
-    var num2;
-    num1 = 4;
-    num2 = 1;
-    if(num1 > num2){
-        alert(num1 + " es mayor a " + num2)
-    }else alert(num2 + " es mayor a " + num1)
+![image](https://user-images.githubusercontent.com/103066587/167271724-d60916ad-893c-490c-ae4c-6b5c0edf2266.png)
 
 
 Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
