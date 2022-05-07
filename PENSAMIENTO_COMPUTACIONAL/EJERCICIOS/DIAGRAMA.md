@@ -13,6 +13,10 @@
 
 -asignar - num_mts
 
+-mostrar- "numero de metros a yardas"
+
+-fin
+
 
 
 ![image](https://user-images.githubusercontent.com/103066587/163252665-f8e8f34e-f6c4-4d44-b6db-62e40d1d9fd7.png)
