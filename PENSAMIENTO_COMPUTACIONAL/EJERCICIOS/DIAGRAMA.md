@@ -13,7 +13,9 @@
 
 -asignar - num_mts
 
--mostrar- "numero de metros a yardas"
+-resultado= num_mts*1.09
+
+-mostrar- "el numero de metros a yardas es"
 
 -fin
 
