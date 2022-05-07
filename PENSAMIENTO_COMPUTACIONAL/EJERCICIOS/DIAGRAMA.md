@@ -5,10 +5,13 @@
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
 
-inicio
-declarar - num_mts, resultado
-mostrar- "número de metros a convertir"
-asignar - num_mts
+-inicio
+
+-declarar - num_mts, resultado
+
+-mostrar- "número de metros a convertir"
+
+-asignar - num_mts
 
 
 
